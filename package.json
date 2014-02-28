@@ -1,0 +1,18 @@
+{
+  "name": "language-scala",
+  "version": "0.3.0",
+  "description": "Scala language support in Atom",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "https://github.com/XuefengWu/language-scala",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XuefengWu/language-scala.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XuefengWu/language-scala/issues"
+  }
+}
